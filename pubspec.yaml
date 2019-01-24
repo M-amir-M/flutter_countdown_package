@@ -1,8 +1,8 @@
 name: simple_countdown
 description: A new Flutter package project.
 version: 0.0.1
-author: 
-homepage:
+author: Mohammad amir mohammadi<mem.amir.m@gmail.com>
+homepage: https://github.com/M-amir-M/flutter_countdown_package
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
